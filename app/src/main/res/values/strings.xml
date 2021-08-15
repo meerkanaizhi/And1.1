@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">And1.1</string>
+    <string name="delta_txt">DELTA</string>
+    <string name="pass_txt">Passenger</string>
+    <string name="pass_txt2">Kathleen Huang</string>
+<string name="jfk_txt">JFK</string>
+    <string name="nyc_txt">NEW YORK CITY</string>
+    <string name="sea_txt">SEA</string>
+    <string name="seattle_txt">SEATTLE</string>
+    <string name="dep_txt">DEPART</string>
+    <string name="arr_txt">ARRIVE</string>
+    <string name="time_boarding">BOARDING  BEGINS</string>
+    <string name="fly_txt">FLIGHT</string>
+    <string name="name_board">D2218</string>
+    <string name="gate_txt">GATE</string>
+    <string name="txt_d4">D4</string>
+    <string name="txt_seat">SEAT</string>
+    <string name="number_seat">3C</string>
+</resources>
